@@ -1,4 +1,16 @@
-# P5 - Segmentation clients d'un site de e-commerce
+# Projet 5 - OpenClassrooms
+Parcours Data Science
+
+Projet n°5 : ""
+
+- Source des données : 
+
+## Introduction du projet
+
+
+## Travail réalisé
+-
+
 
 ## Compétences évaluées
 - Mettre en place le modèle d'apprentissage non supervisé adapté au problème métier
