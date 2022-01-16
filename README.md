@@ -10,7 +10,7 @@ La plateforme de e-commerce *Olist* souhaite réaliser une segmentation de ses c
 
 Il nous est demandé de fournir à l'équipe marketing une description actionable de notre segmentation et de sa logique sous-jacente pour une utilisation optimale, ainsi qu'une proposition de contrat de maintenance basée sur la stabilité des segments au cours du temps.
 
-**Conclusions:** Il ressort de l'analyse que seulement 3% des utilisateurs contenus dans le jeu de données ont commandé plusieurs fois sur le site. Dans cette population l'analyse RFM permet de faire ressortir les différents types de profil permettant d'instruire les actions marketing à réaliser. L'analyse des segments montre une instabilité significative au delà de 3 mois, période que l'on retiendra dans la proposition du contrat de maintenance.
+**Conclusions:** Il ressort de l'analyse que seulement 3% des utilisateurs contenus dans le jeu de données ont commandé plusieurs fois sur le site. Dans cette population, l'analyse RFM permet de faire ressortir les différents types de profil permettant d'instruire les actions marketing à réaliser. L'analyse des segments montre une instabilité significative au delà de 3 mois, période que l'on retiendra dans la proposition du contrat de maintenance.
 
 
 ## Travail réalisé
